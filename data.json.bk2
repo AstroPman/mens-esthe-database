@@ -1,0 +1,24 @@
+{
+  "therapists": [
+    {
+      "id": 139165,
+      "name": "深田 えりか",
+      "age": 26,
+      "height": 160.0,
+      "bra_size": "B",
+      "bust": 0,
+      "waist": 0,
+      "hip": 0,
+      "img": "https://men-esthe.jp/contents/therapist/22a615955df3cf33dcadde410ee96715.png",
+      "salon_id": 10937,
+      "salon_name": "ラリマスパ",
+      "score": 87.8,
+      "reviews": 4.0,
+      "skr": 100.0,
+      "hj": 75.0,
+      "f": 0.0,
+      "nn": 0.0,
+      "ns": 0.0
+    }
+  ]
+}
